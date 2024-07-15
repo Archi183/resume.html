@@ -1,2 +1,2 @@
 # resume.html
-I learned html only and made my resunme!
+I learned html only and made my resume!
